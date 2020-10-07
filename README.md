@@ -43,9 +43,15 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+The second part of the castor is the mount. The dimensions were 120 mm x 120 mm x 8 mm thick. It has 5 holes with one central one which is 25 mm in diameter and 4 in a linear pattern around the square.
+
 ### Evidence
 
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/217a7ff9781d2c7d8857a3dc/w/7908d6c944581b7be06e94df/e/1d646e54add04f95ccd8731b)
+
 ### Image
+
+<img src="mount.png"
 
 ### Reflection
 
