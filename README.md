@@ -51,9 +51,19 @@ The second part of the castor is the mount. The dimensions were 120 mm x 120 mm 
 
 ### Image
 
-<img src="mount.png"
+
 
 ### Reflection
+
+This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/BWDk4BZFXDQ)
+I learned about 
+* sketching (shortcut **shift-s**)
+* constructions lines (shortcut **Q**)
+* dimensions (shortcut **D**)
+* extruding both add and remove (shortcut key **E**)
+* linear patterns (no shortcut)
+
+I'm really enjoying making parts in Onshape and can't wait to assemble them all.
 
 ---
 
@@ -62,7 +72,11 @@ The second part of the castor is the mount. The dimensions were 120 mm x 120 mm 
 
 ### Description
 
+The second part of the castor is the fork. The first sektch was a circle which was another simple extrusion, followed by a skinny, long rectangle which I extruded and mirrored. I added to fillets to the first sketch and its mirror, and a third fillet which was inverted to make the first and second sketch flow into each other. I then created a sketch on one of the faces of the second sketch in order to create a hole in both pieces. The final important part I added was a long extrusion of a circle on the bottom of the fork.
+
 ### Evidence
+
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/ee5b73467df8cda6a47d9706/w/646eb6b02b88607b6daa6105/e/ee0a951f67a0f03ee1b04740)
 
 ### Image
 
