@@ -51,7 +51,7 @@ The second part of the castor is the mount. The dimensions were 120 mm x 120 mm 
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="Screenshot 2020-10-19 at 3.59.56 PM" alt="The Mount" width="200">
 
 ### Reflection
 
