@@ -123,7 +123,7 @@ This was my sixth part of the castor in Onshape. It started with a sketch simila
 ### Reflection
 
 This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
-I learned
+I learned how to do advanced extrudes and make sketches on top of extrudes more efficiently.
 
 ---
 
@@ -136,8 +136,14 @@ This was the seventh part of the castor in Onshape. I started with a circle, whi
 
 ### Evidence
 
+[The Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/a2d782935e7ca577f4091880/w/18bf58818b6de9714ab40a36/e/d54bb68ddfe733a3d6cfbf7d)
+
 ### Image
 
 ### Reflection
+
+
+This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
+I learned how to make simple chapes more complex and detailed.
 
 ---
