@@ -51,7 +51,7 @@ The second part of the castor is the mount. The dimensions were 120 mm x 120 mm 
 
 ### Image
 
-<img src="Screenshot 2020-10-19 at 3.59.56 PM" alt="The Mount" width="200">
+<img src="https://github.com/Cooper-Moreland/Basic-Onshape-CAD/blob/master/Mount.png?raw=true" alt="The Mount" width="400">
 
 ### Reflection
 
@@ -72,7 +72,7 @@ I'm really enjoying making parts in Onshape and can't wait to assemble them all.
 
 ### Description
 
-The second part of the castor is the fork. The first sektch was a circle which was another simple extrusion, followed by a skinny, long rectangle which I extruded and mirrored. I added to fillets to the first sketch and its mirror, and a third fillet which was inverted to make the first and second sketch flow into each other. I then created a sketch on one of the faces of the second sketch in order to create a hole in both pieces. The final important part I added was a long extrusion of a circle on the bottom of the fork.
+The third part of the castor is the fork. The first sektch was a circle which was another simple extrusion, followed by a skinny, long rectangle which I extruded and mirrored. I added to fillets to the first sketch and its mirror, and a third fillet which was inverted to make the first and second sketch flow into each other. I then created a sketch on one of the faces of the second sketch in order to create a hole in both pieces. The final important part I added was a long extrusion of a circle on the bottom of the fork.
 
 ### Evidence
 
@@ -82,6 +82,9 @@ The second part of the castor is the fork. The first sektch was a circle which w
 
 ### Reflection
 
+This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/wQlTfOw8rYQ)
+I learned that you are able to put a whole through two objects with one command.
+
 ---
 
 
@@ -89,31 +92,47 @@ The second part of the castor is the fork. The first sektch was a circle which w
 
 ### Description
 
+This was the fourth part of the castor in Onshape. It was simply one circular sketch followed by a revolve. After that I added fillets to the edges of the tire.
+
 ### Evidence
+
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/b3d95225ae7d1c2af7f2c6c4/w/8ef267e34b8927d8cf58ae6a/e/1af325330b6bd66a73bdf88b)
 
 ### Image
 
 ### Reflection
 
+This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/ReEGioIYSus)
+I learned how to add fillets to objects in Onshape.
+
 ---
 
 
-## Wheel
+## Wheel and Bearings
 
 ### Description
 
+This was my sixth part of the castor in Onshape. It started with a sketch similar to an upper case ¨I,¨ followed by a revolve and a circular sketch with multiple circles in it. I added three lines going out from the center and extruded those and made a circular pattern to create the holes in the wheel. I then added fillets to the edges of the wholes to make them look cleaner. For the Bearings, I made two circles lined up with the center of the wheel, (one smaller) and extruded them.
+
 ### Evidence
+
+[The Wheel and Bearing in Onshape](https://cvilleschools.onshape.com/documents/780b7d9aab664ba7790d909f/w/e61805e6a0690e979c411aeb/e/14ad36413683a70d94caa467)
 
 ### Image
 
 ### Reflection
 
+This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
+I learned
+
 ---
 
 
-## AxleCollarBearings
+## Axle and Collar
 
 ### Description
+
+This was the seventh part of the castor in Onshape. I started with a circle, which I extruded, I then made a rectangle on the top of the first extrude. I added a blind extrude of a rectangle on the top and mirrored it to the other side. For the bearing I sketched a circle on the edge of the first extrude and extruded that circle. Finally, I put a through all extrude to make a whole through the bearing.
 
 ### Evidence
 
