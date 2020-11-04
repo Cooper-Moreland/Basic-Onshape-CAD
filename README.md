@@ -142,7 +142,6 @@ This was the seventh part of the castor in Onshape. I started with a circle, whi
 
 ### Reflection
 
-
 This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
 I learned how to make simple chapes more complex and detailed.
 
