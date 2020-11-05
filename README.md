@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="https://github.com/Cooper-Moreland/Basic-Onshape-CAD/blob/master/Base.png?raw=true" alt="The Mount" width="400">
 
 ### Reflection
 
@@ -80,6 +80,8 @@ The third part of the castor is the fork. The first sektch was a circle which wa
 
 ### Image
 
+<img src="https://github.com/Cooper-Moreland/Basic-Onshape-CAD/blob/master/Fork.png?raw=true" alt="The Mount" width="400">
+
 ### Reflection
 
 This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/wQlTfOw8rYQ)
@@ -99,6 +101,8 @@ This was the fourth part of the castor in Onshape. It was simply one circular sk
 [The Tire in Onshape](https://cvilleschools.onshape.com/documents/b3d95225ae7d1c2af7f2c6c4/w/8ef267e34b8927d8cf58ae6a/e/1af325330b6bd66a73bdf88b)
 
 ### Image
+
+<img src="https://github.com/Cooper-Moreland/Basic-Onshape-CAD/blob/master/Tire.png?raw=true" alt="The Mount" width="400">
 
 ### Reflection
 
@@ -120,6 +124,8 @@ This was my sixth part of the castor in Onshape. It started with a sketch simila
 
 ### Image
 
+<img src="https://github.com/Cooper-Moreland/Basic-Onshape-CAD/blob/master/Wheel&Bearing.png?raw=true" alt="The Mount" width="400">
+
 ### Reflection
 
 This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
@@ -139,6 +145,8 @@ This was the seventh part of the castor in Onshape. I started with a circle, whi
 [The Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/a2d782935e7ca577f4091880/w/18bf58818b6de9714ab40a36/e/d54bb68ddfe733a3d6cfbf7d)
 
 ### Image
+
+<img src="https://github.com/Cooper-Moreland/Basic-Onshape-CAD/blob/master/Axle&Collar.png?raw=true" alt="The Mount" width="400">
 
 ### Reflection
 
